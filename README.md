@@ -1,5 +1,8 @@
 # educause-meeting-mapper
+
 Generating a Python script to visualize Educause annual meeting locations on a US map with Cartopy.
+
+<img src="educause_meetings_map.png" alt="Educause Meetings Map" width="650"/>
 
 ## Overview
 
